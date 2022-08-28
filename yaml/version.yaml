@@ -1,0 +1,10 @@
+-
+  # 版本号
+  version: 1.0.0
+  # 当前版本更新后是否需要重启
+  needRestart: true
+  # 版本发布时间
+  releaseTime: 2022-09-03
+  # 版本简要介绍
+  updateLogs:
+    - 首个版本发布
