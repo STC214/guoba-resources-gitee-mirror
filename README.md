@@ -1,5 +1,7 @@
-# Resources
+# Guoba-Resources
 
-#### 介绍
-锅巴版本发布等资源仓库
-![输入图片说明](imageXiangling_002-%E9%A6%99%E8%8F%B1.jpg)
+## 介绍
+
+此仓库主要用于锅巴版本发布等资源存储。
+
+![香菱](images/xiangling.jpg)
