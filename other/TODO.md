@@ -39,4 +39,4 @@
 
 求个赞助，你的支持是维护本项目的动力~
 
-[![afdian](https://s1.ax1x.com/2022/09/04/vT14fS.jpg)](https://afdian.net/a/zolay-poi)
+[![afdian](https://s2.loli.net/2022/09/05/cAgopMyvZbiXUk3.webp)](https://afdian.net/a/zolay-poi)
