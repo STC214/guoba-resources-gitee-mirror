@@ -37,6 +37,6 @@
 
 ## 赞助
 
-求个赞助，你的支持是维护本项目的动力~
+求个[赞助](https://afdian.net/a/zolay-poi)，你的支持是维护本项目的动力~
 
 [![afdian](https://s2.loli.net/2022/09/05/cAgopMyvZbiXUk3.webp)](https://afdian.net/a/zolay-poi)
