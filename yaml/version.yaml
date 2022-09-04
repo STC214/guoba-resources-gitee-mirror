@@ -1,13 +1,13 @@
 -
   # 版本号
-  version: 1.0.0-rc.2
+  version: 1.0.0-rc.3
   # 当前版本更新后是否需要重启
-  needRestart: false
+  needRestart: true
   # 版本发布时间
-  releaseTime: 2022-09-04
+  releaseTime: 2022-09-05
   # 版本简要介绍
   updateLogs:
-    - 优化用户选择组件
+    - 新增部分配置
 -
   version: 1.0.0-rc.1
   needRestart: true
