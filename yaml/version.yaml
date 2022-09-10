@@ -1,6 +1,6 @@
 -
   # 版本号
-  version: 1.0.0
+  version: 1.0.1-beta
   # 当前版本更新后是否需要重启
   needRestart: true
   # 版本发布时间
@@ -9,8 +9,8 @@
   updateLogs:
     - 新增支持编辑喵喵帮助
 -
-  version: 1.0.0-rc.5
+  version: 1.0.0
   needRestart: true
-  releaseTime: 2022-09-07
+  releaseTime: 2022-09-10
   updateLogs:
-    - 新增强制更新指令
+    - 新增支持编辑喵喵帮助
