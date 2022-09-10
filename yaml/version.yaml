@@ -8,6 +8,7 @@
   # 版本简要介绍
   updateLogs:
     - 新增支持编辑喵喵帮助
+    - 注：本次更新，非pnpm安装的，需要安装multer依赖
 -
   version: 1.0.0
   needRestart: true
