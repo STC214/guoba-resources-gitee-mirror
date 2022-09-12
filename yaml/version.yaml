@@ -1,6 +1,6 @@
 -
   # 版本号
-  version: 1.0.1-beta.1
+  version: 1.0.1-beta.2
   # 当前版本更新后是否需要重启
   needRestart: false
   # 版本发布时间
