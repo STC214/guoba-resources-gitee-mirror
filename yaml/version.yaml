@@ -1,13 +1,14 @@
 -
   # 版本号
-  version: 1.0.1-beta.3
+  version: 1.0.2
   # 当前版本更新后是否需要重启
-  needRestart: false
+  needRestart: true
   # 版本发布时间
-  releaseTime: 2022-09-12
+  releaseTime: 2022-09-19
   # 版本简要介绍
   updateLogs:
-    - 编辑喵喵帮助支持无限数量的图标
+    - 新增Cron控件
+    - 补充配置项
 -
   version: 1.0.1-beta
   needRestart: true
