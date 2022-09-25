@@ -1,18 +1,18 @@
 -
   # 版本号
-  version: 1.0.2
+  version: 1.0.3
   # 当前版本更新后是否需要重启
   needRestart: true
   # 版本发布时间
-  releaseTime: 2022-09-19
+  releaseTime: 2022-09-26
   # 版本简要介绍
+  updateLogs:
+    - 修复天气报错
+    - 优化编辑喵喵帮助图片加载逻辑
+-
+  version: 1.0.2
+  needRestart: true
+  releaseTime: 2022-09-19
   updateLogs:
     - 新增Cron控件
     - 补充配置项
--
-  version: 1.0.1-beta
-  needRestart: true
-  releaseTime: 2022-09-10
-  updateLogs:
-    - 新增支持编辑喵喵帮助
-    - 注：本次更新，非pnpm安装的，需要安装multer依赖
