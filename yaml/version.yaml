@@ -1,6 +1,6 @@
 -
   # 版本号
-  version: 1.0.3
+  version: 1.0.4
   # 当前版本更新后是否需要重启
   needRestart: true
   # 版本发布时间
