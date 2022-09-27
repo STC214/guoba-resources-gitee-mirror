@@ -1,18 +1,18 @@
 -
   # 版本号
-  version: 1.0.4
+  version: 1.0.5
   # 当前版本更新后是否需要重启
-  needRestart: true
+  needRestart: false
   # 版本发布时间
-  releaseTime: 2022-09-26
+  releaseTime: 2022-09-28
   # 版本简要介绍
+  updateLogs:
+    - 初步兼容喵喵帮助2.0版本
+    - 喵喵帮助皮肤、透明度等设置正在适配中，敬请期待~
+-
+  version: 1.0.4
+  needRestart: true
+  releaseTime: 2022-09-26
   updateLogs:
     - 修复天气报错
     - 优化编辑喵喵帮助图片加载逻辑
--
-  version: 1.0.2
-  needRestart: true
-  releaseTime: 2022-09-19
-  updateLogs:
-    - 新增Cron控件
-    - 补充配置项
