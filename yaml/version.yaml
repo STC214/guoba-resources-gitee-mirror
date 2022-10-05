@@ -1,14 +1,13 @@
 -
   # 版本号
-  version: 1.0.5
+  version: 1.0.6
   # 当前版本更新后是否需要重启
-  needRestart: false
+  needRestart: true
   # 版本发布时间
-  releaseTime: 2022-09-28
+  releaseTime: 2022-10-06
   # 版本简要介绍
   updateLogs:
-    - 初步兼容喵喵帮助2.0版本
-    - 喵喵帮助皮肤、透明度等设置正在适配中，敬请期待~
+    - 兼容新版喵喵帮助换肤功能
 -
   version: 1.0.4
   needRestart: true
