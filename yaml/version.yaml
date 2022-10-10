@@ -1,12 +1,13 @@
 -
   # 版本号
-  version: 1.0.7-beta.4
+  version: 1.0.7-beta.5
   # 当前版本更新后是否需要重启
   needRestart: true
   # 版本发布时间
   releaseTime: 2022-10-06
   # 版本简要介绍
   updateLogs:
+    - 修复特定情况下外网地址拼接错误
     - 兼容新版喵喵帮助换肤功能
     - 修复外网地址获取失败导致无法登陆
 -
