@@ -1,18 +1,18 @@
 -
   # 版本号
-  version: 1.0.7
+  version: 1.1.0
   # 当前版本更新后是否需要重启
   needRestart: true
   # 版本发布时间
-  releaseTime: 2022-10-11
+  releaseTime: 2022-12-02
   # 版本简要介绍
+  updateLogs:
+    - 新增V2云崽丝滑迁移至V3功能
+    - 新增V2单文件插件兼容目录(lib/v2-js)
+-
+  version: 1.0.7
+  needRestart: true
+  releaseTime: 2022-10-11
   updateLogs:
     - 兼容新版喵喵帮助备份功能
     - 兼容新版喵喵帮助换肤功能
--
-  version: 1.0.4
-  needRestart: true
-  releaseTime: 2022-09-26
-  updateLogs:
-    - 修复天气报错
-    - 优化编辑喵喵帮助图片加载逻辑
