@@ -1,18 +1,18 @@
 -
   # 版本号
-  version: 1.1.2
+  version: 1.1.5
   # 当前版本更新后是否需要重启
   needRestart: true
   # 版本发布时间
-  releaseTime: 2023-03-06
+  releaseTime: 2023-05-29
   # 版本简要介绍
+  updateLogs:
+    - 兼容新版cookie获取逻辑
+    - 部分文案修改，修复随机图片经常404的问题
+-
+  version: 1.1.2
+  needRestart: true
+  releaseTime: 2023-03-06
   updateLogs:
     - 兼容新版插件索引列表，修复获取远程插件列表功能。
     - 注：如果更新后还获取不到可等待12小时或手动删除key为Yz:Guoba:plugins的redis缓存。
--
-  version: 1.1.0
-  needRestart: true
-  releaseTime: 2022-12-02
-  updateLogs:
-    - 新增V2云崽丝滑迁移至V3功能
-    - 新增V2单文件插件兼容目录(lib/v2-js)
