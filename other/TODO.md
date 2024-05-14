@@ -16,7 +16,7 @@
 - [x] plugin插件管理
   - [x] plugin插件配置
     - 需plugin自行适配，可实现配置plugin的选项
-  - [x] 安装、卸载plugin插件 @0卡苏打水
+  - [x] 安装、卸载plugin插件 [@0卡苏打水](https://github.com/CikeyQi)
 - [ ] cookie用户管理
 - [ ] 账号非正常（冻结、封号）下线通知
   - [ ] 邮件通知
